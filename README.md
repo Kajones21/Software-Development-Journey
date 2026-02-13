@@ -13,4 +13,4 @@ This repository details my journey in web design, utilizing 100Dev's curriculum 
 ### Feb 13
 * Review: Reviewed Jan 31 material (designing a bookstore page).
 * Progress: Learning how to draft complete pages in html using the basics and including descriptions in metadata to increase potential traffic to created websites. 
-* What have I learned: I learned about curating metadata to enhance SEO and the theory of Open Graph tags.
+* What have I learned: I learned about curating metadata to enhance SEO and the theory of Open Graph tags. I am on step 87 of the course: Responsive Web Design Certification on freecodecamp.
