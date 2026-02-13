@@ -8,3 +8,9 @@ This repository details my journey in web design, utilizing 100Dev's curriculum 
 ### Jan 31
 * Progress: Currently on the Basics HTML (#84) step of the Responsive Web Design Certification on freeCodeCamp.
 * What have I learned: I have learned about named references, nesting and sibling elements. I have learned how to add interactive elements to my templates using html. I have begun learning how css files and html files connect beyond the <link> element and how to optimize styling pages.
+
+## Feb 2026
+### Feb 13
+* Review: Reviewed Jan 31 material (designing a bookstore page).
+* Progress: Learning how to draft complete pages in html using the basics and including descriptions in metadata to increase potential traffic to created websites. 
+* What have I learned: I learned about curating metadata to enhance SEO and the theory of Open Graph tags.
