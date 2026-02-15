@@ -14,3 +14,7 @@ This repository details my journey in web design, utilizing 100Dev's curriculum 
 * Review: Reviewed Jan 31 material (designing a bookstore page).
 * Progress: Learning how to draft complete pages in html using the basics and including descriptions in metadata to increase potential traffic to created websites. 
 * What have I learned: I learned about curating metadata to enhance SEO and the theory of Open Graph tags. I am on step 87 of the course: Responsive Web Design Certification on freecodecamp.
+### Feb 15
+* Progress: Built on previous knowledge to begin adding media items to the basic boilerplate template.
+* What have I learned: I learned about adding audio and video to a webpage, how to outfit the code to error handle based on browser compatibility and legacy media, and how to find public domain images and respect licenses. I also learned about the different file formats and how to render them correctly to save data and ensure a quality media display.
+* Current Learning Step: 111 in Responsive Web Design Certification on freeCodeCamp.org.
