@@ -18,3 +18,7 @@ This repository details my journey in web design, utilizing 100Dev's curriculum 
 * Progress: Built on previous knowledge to begin adding media items to the basic boilerplate template.
 * What have I learned: I learned about adding audio and video to a webpage, how to outfit the code to error handle based on browser compatibility and legacy media, and how to find public domain images and respect licenses. I also learned about the different file formats and how to render them correctly to save data and ensure a quality media display.
 * Current Learning Step: 111 in Responsive Web Design Certification on freeCodeCamp.org.
+### Feb 17
+* Progress: Currently working on embedding external content into HTML website and adding links, plus the best way to structure things to ensure maximum efficiency when using links.
+* What have I learned: I learned about using external content in a website using an iframe and the limitations that it includes. I learned about how the structure of links reflects directory structures and learned how important directory and folder structures are in creating an efficient website. These types of things need to be mapped out before creating a website that references other things.
+* Current Learning: Begin again on https://www.freecodecamp.org/learn/responsive-web-design-v9/lecture-working-with-links/what-are-the-different-link-states
