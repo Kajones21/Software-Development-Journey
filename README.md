@@ -26,3 +26,8 @@ This repository details my journey in web design, utilizing 100Dev's curriculum 
 * Progress: Semantic HTML theory
 * What have I learned: I learned the importance of using semantic HTML to ensure proper content structure to improve the rankings of my website in search engines and to ensure ADA friendly websites. Also, it just good to utilize this html to ensure universal understanding of a html document for collaboration.
 * Currently Learning: Doing Nuanced Semantic HTML.
+### Feb 18 (Healing Day)
+### Feb 19
+* Progress: working on inputting more detailed items on a webpage beyond the traditional boilerplate template.
+* What have I learned: I learned about organizing items using description lists, which organize labels and key related information into a list. I also learned about outdated, nuance,d idiomatic HTML, which has more appropriate semantic equivalents to convey meaning and abide by ADA. If we need to emphasize something visually that doesn't have meaning, it's best to style items using CSS.
+* Next Time: Will learn about inline quotations.
