@@ -31,3 +31,7 @@ This repository details my journey in web design, utilizing 100Dev's curriculum 
 * Progress: working on inputting more detailed items on a webpage beyond the traditional boilerplate template.
 * What have I learned: I learned about organizing items using description lists, which organize labels and key related information into a list. I also learned about outdated, nuance,d idiomatic HTML, which has more appropriate semantic equivalents to convey meaning and abide by ADA. If we need to emphasize something visually that doesn't have meaning, it's best to style items using CSS.
 * Next Time: Will learn about inline quotations.
+### Feb 20
+* Progress: working on inputting more context and details into the content of the HTML page for all accessibility level crowds. I am also working towards citing and referencing material beyond the standard links and differentiating that text from other text based on semantic HTML. I am also working on adding more details into the html page to help with SEO.
+* What have I learned: I am learning how browsers process pages based on HTML content and how to enhance a webpage by including that information as tooltips, quotations, and date/time elements to create a good UX for all levels. Also had a little visit from a new HTML entity in the form of & mdash; (of course, there is no space between the ampersand and the following text to actually make the em dash :)
+* Next Time: Working with specialized semantic elements.
