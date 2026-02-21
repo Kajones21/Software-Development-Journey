@@ -35,3 +35,7 @@ This repository details my journey in web design, utilizing 100Dev's curriculum 
 * Progress: working on inputting more context and details into the content of the HTML page for all accessibility level crowds. I am also working towards citing and referencing material beyond the standard links and differentiating that text from other text based on semantic HTML. I am also working on adding more details into the html page to help with SEO.
 * What have I learned: I am learning how browsers process pages based on HTML content and how to enhance a webpage by including that information as tooltips, quotations, and date/time elements to create a good UX for all levels. Also had a little visit from a new HTML entity in the form of & mdash; (of course, there is no space between the ampersand and the following text to actually make the em dash :)
 * Next Time: Working with specialized semantic elements.
+### Feb 21
+* Progress: making websites accessible and interactive using HTML.
+* What have I learned: I learned about in-page links and how to correctly reference them. I learned about the importance of using the correct html tag so we can create an organized page that is sensible and user-firiendly to all types of audiences.
+* Next time: Forms and Tables
