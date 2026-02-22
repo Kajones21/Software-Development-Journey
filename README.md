@@ -39,3 +39,7 @@ This repository details my journey in web design, utilizing 100Dev's curriculum 
 * Progress: making websites accessible and interactive using HTML.
 * What have I learned: I learned about in-page links and how to correctly reference them. I learned about the importance of using the correct html tag so we can create an organized page that is sensible and user-firiendly to all types of audiences.
 * Next time: Forms and Tables
+### Feb 22
+* Progress: collecting data using websites
+* What I learned: I learned how to make forms, with different input options like radio button, multi-choice selection using checkboxes, dropdowns, and text input controls. I learned how to use buttons to send data out to a server. I learned how to set behavior to elements that need user input. I learned of HTTPS requests, but not detailed information. More will be detailed in later chapters.
+* Next Time: creating tables!
