@@ -43,7 +43,7 @@ This repository details my journey in web design, utilizing 100Dev's curriculum 
 * Progress: collecting data using websites
 * What I learned: I learned how to make forms, with different input options like radio buttons, multi-choice selection using checkboxes, dropdowns, and text input controls. I learned how to use buttons to send data out to a server. I learned how to set behavior for elements that need user input. I learned about HTTPS requests, but not detailed information. More will be detailed in later chapters.
 * Next Time: creating tables!
-  ### Feb 23
+### Feb 23
 * Progress: creating tables for tabular data (outdated method); CSS is used mostly now, but one should still know how to do it.
 * What I learned: I learned how to create HTML tables from scratch. The syntax is pretty easy, but it's easy to get lost when you have more than a few rows to type out!
 * Next Time: Working with HTML tools for validation and more!
