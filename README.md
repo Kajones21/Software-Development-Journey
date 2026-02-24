@@ -47,3 +47,7 @@ This repository details my journey in web design, utilizing 100Dev's curriculum 
 * Progress: creating tables for tabular data (outdated method); CSS is used mostly now, but one should still know how to do it.
 * What I learned: I learned how to create HTML tables from scratch. The syntax is pretty easy, but it's easy to get lost when you have more than a few rows to type out!
 * Next Time: Working with HTML tools for validation and more!
+### Feb 24
+* Progress: Finishing up HTML Tables and Forms for Review
+* What I learned: I learned about native browser tools to debug code and other resources to validate JSON and HTML code. I learned about the DOM inspector and console inside the browser to help diagnose issues in code. I completed the certification project, basing it on a roommate matching survey in college, practicing several buttons, creating forms, and relating elements through the use of IDs.
+* Next Time: Deep-dive into Accessibility in HTML!
