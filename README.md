@@ -49,5 +49,9 @@ This repository details my journey in web design, utilizing 100Dev's curriculum 
 * Next Time: Working with HTML tools for validation and more!
 ### Feb 24
 * Progress: Finishing up HTML Tables and Forms for Review
-* What I learned: I learned about native browser tools to debug code and other resources to validate JSON and HTML code. I learned about the DOM inspector and console inside the browser to help diagnose issues in code. I completed the certification project, basing it on a roommate matching survey in college, practicing several buttons, creating forms, and relating elements through the use of IDs.
+* What I learned: I learned about native browser tools to debug code and other resources to validate JSON and HTML code. I learned about the DOM inspector and console inside the browser to help diagnose issues in code. I completed the certification project, which was based on a roommate matching survey from college, involving several buttons, creating forms, and relating elements through the use of IDs.
 * Next Time: Deep-dive into Accessibility in HTML!
+### Feb 25
+* Progress: Diving into accessibility, ADA tools to consider when designing websites, and auditing tools. Very relevant considering the new rules that have been created.
+* What have I learned: I already knew about ADA a little before starting, but I didn't know about auditing tools that could help me identify weakpoints in my creation, so this was very informative! Refresher on heading structure and including a brief paragraph to summarize key information after each heading, allowing people to skip content if it is not of interest to them.
+* Next Time: Debugging Project!
