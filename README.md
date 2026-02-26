@@ -55,3 +55,7 @@ This repository details my journey in web design, utilizing 100Dev's curriculum 
 * Progress: Diving into accessibility, ADA tools to consider when designing websites, and auditing tools. Very relevant considering the new rules that have been created.
 * What have I learned: I already knew about ADA a little before starting, but I didn't know about auditing tools that could help me identify weakpoints in my creation, so this was very informative! Refresher on heading structure and including a brief paragraph to summarize key information after each heading, allowing people to skip content if it is not of interest to them.
 * Next Time: Debugging Project!
+### Feb 26
+* Progress: Debugging a page with ADA practices in mind and general HTML structure.
+* What have I learned: Did not start on the theory section today.
+* Next Time: Working on incorporating accessibility in all things: next up tables!
