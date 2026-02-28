@@ -59,3 +59,8 @@ This repository details my journey in web design, utilizing 100Dev's curriculum 
 * Progress: Debugging a page with ADA practices in mind and general HTML structure.
 * What have I learned: Did not start on the theory section today.
 * Next Time: Working on incorporating accessibility in all things: next up tables!
+### Feb 27 (Fostering Social Relationships!)
+### Feb 28
+* Progress: focusing on accessibility in websites and incorporating it with interactive and dynamic content.
+* What have I learned: I finished up the HTML tables and spent the rest of the time learning about ARIA and how it can be used to provide info about interactive content on the web page.
+Next time: More ARIA then the workshop: building an acccesible item using HTML and ARIA roles!
