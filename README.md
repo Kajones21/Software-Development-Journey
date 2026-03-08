@@ -64,3 +64,8 @@ This repository details my journey in web design, utilizing 100Dev's curriculum 
 * Progress: focusing on accessibility in websites and incorporating it with interactive and dynamic content.
 * What have I learned: I finished up the HTML tables and spent the rest of the time learning about ARIA and how it can be used to provide info about interactive content on the web page.
 Next time: More ARIA then the workshop: building an acccesible item using HTML and ARIA roles!
+## Mar 2026
+### Mar 08
+* Progress: continuing response web design cert and moving into 'Learning How to Learn' on coursera.
+* What have I learned: I am learning how to make websites and the information they contain accessible to a wider audience. I am also gathering resources to help with these efforts to create captions, subtitles, and the like.
+Next time: Finishing up Accessibility and taking two quizzes.
