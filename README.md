@@ -69,3 +69,8 @@ Next time: More ARIA then the workshop: building an acccesible item using HTML a
 * Progress: continuing response web design cert and moving into 'Learning How to Learn' on coursera.
 * What have I learned: I am learning how to make websites and the information they contain accessible to a wider audience. I am also gathering resources to help with these efforts to create captions, subtitles, and the like.
 Next time: Finishing up Accessibility and taking two quizzes.
+### Mar 09
+* Progress: Completed the HTML section of Responsive Web Development 🥳
+* What have I learned: HTML structure is very important to creating a site that is easy to collaborate on and maintain while also ensuring everyone can use it effectively. Because of its importance in promoting accessibility and ensuring the page can be found in search results, HTML should be routinely practiced and improved on. When designing a website, it's always best to start with a type of draft model, like in powerpoint so it can be easily ordered and issues can be addressed efficiently. This approach will also ensure the team is working towards a singular type of project and their is no overlapping functions or buttons that can confuse users.
+* Next time: Going into computer basics and CSS (a daunting 1200 steps, but it WILL get done!)
+* Additional: At work, I am completing R programming basics for programming. I will be doing the R developer track.
