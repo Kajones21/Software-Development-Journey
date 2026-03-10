@@ -74,3 +74,8 @@ Next time: Finishing up Accessibility and taking two quizzes.
 * What have I learned: HTML structure is very important to creating a site that is easy to collaborate on and maintain while also ensuring everyone can use it effectively. Because of its importance in promoting accessibility and ensuring the page can be found in search results, HTML should be routinely practiced and improved on. When designing a website, it's always best to start with a type of draft model, like in powerpoint so it can be easily ordered and issues can be addressed efficiently. This approach will also ensure the team is working towards a singular type of project and their is no overlapping functions or buttons that can confuse users.
 * Next time: Going into computer basics and CSS (a daunting 1200 steps, but it WILL get done!)
 * Additional: At work, I am completing R programming basics for programming. I will be doing the R developer track.
+### Mar 10
+* Progress: Working through computer basics and SWD tools; Need to schedule time to learn git in-depth.
+* What have I learned: I learned about computer components and their functions. Most importantly, I learned about resources to design, test, and strengthen code.
+* Next time: I'll be looking at file systems.
+* Additional: I am finishing up the R intermediate course on DataCamp.
