@@ -79,7 +79,7 @@ Next time: Finishing up Accessibility and taking two quizzes.
 * What have I learned: I learned about computer components and their functions. Most importantly, I learned about resources to design, test, and strengthen code.
 * Next time: I'll be looking at file systems.
 * Additional: I am finishing up the R intermediate course on DataCamp.
-### Mar 10
+### Mar 11
 * Progress: Working through computer basics and SWD tools.
 * What have I learned: I learned about different file formats and how to remain organized on my computer.
 * Next time: I will look at search engines.
@@ -87,7 +87,6 @@ Next time: Finishing up Accessibility and taking two quizzes.
 * Personal Project: Reconfiguring and optimizing my folders and files on my home computer and work computer.
   * Personal Computer: 0%
   * Work Computer: 0%
-### Mar 11 (Break)
 ### Mar 12 (Break)
 ### Mar 13 
 * Progress: Finished computer basics. Looking forward to learning CSS.
