@@ -97,3 +97,12 @@ Next time: Finishing up Accessibility and taking two quizzes.
 * Personal Project: Reconfiguring and optimizing my folders and files on my home computer and work computer.
   * Personal Computer: 0%
   * Work Computer: 0%
+### Mar 14
+* Progress: making headway on CSS baics. Just realized an html workshop did not save work so I will repeat it.
+* What have I learned: I am learning about styling dimensions of web pages and how to prevent ridicilous sizes.
+* Next time: continuing CSS basics (CSS combinations). First off, I will complete the HTML music player activies (6-8) steps.
+* Additional: No R learning on the weekends.
+* Personal Project: Reconfiguring and optimizing my folders and files on my home computer and work computer.
+  * Personal Computer: 0%
+  * Work Computer: 0%
+
