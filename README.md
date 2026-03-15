@@ -111,5 +111,5 @@ Next time: Finishing up Accessibility and taking two quizzes.
 * Additional: No R learning on the weekends.
 * Personal Project: Reconfiguring and optimizing my folders and files on my home computer and work computer.
   * Personal Computer: 3%
-   * removed screenshots that are not needed.
+      * removed screenshots that are not needed.
   * Work Computer: 0%
