@@ -104,4 +104,12 @@ Next time: Finishing up Accessibility and taking two quizzes.
 * Personal Project: Reconfiguring and optimizing my folders and files on my home computer and work computer.
   * Personal Computer: 0%
   * Work Computer: 0%
-
+### Mar 15
+* Progress: CSS
+* What have I learned: how to efficiently apply design styles by leveraging relationships between elements and using shorthand for properties.
+* Next Time: Designing Cafe Menu
+* Additional: No R learning on the weekends.
+* Personal Project: Reconfiguring and optimizing my folders and files on my home computer and work computer.
+  * Personal Computer: 3%
+   * removed screenshots that are not needed.
+  * Work Computer: 0%
