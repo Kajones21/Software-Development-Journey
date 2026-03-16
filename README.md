@@ -113,3 +113,12 @@ Next time: Finishing up Accessibility and taking two quizzes.
   * Personal Computer: 3%
       * removed screenshots that are not needed.
   * Work Computer: 0%
+### Mar 16
+* Progress: CSS
+* What have I learned: I am applying active recall to see how well I learned the previous class material in the project to design a cafe menu. As I go I am writing down a list of items I need a refresher on and tips for CSS coding.
+* Next Time: Designing Cafe Menu (In Progress)
+* Additional: Currently trying to figure out a way to loop adding alt text to reports.
+* Personal Project: Reconfiguring and optimizing my folders and files on my home computer and work computer.
+  * Personal Computer: 4%
+      * removed screenshots that are not needed.
+  * Work Computer: 0%
