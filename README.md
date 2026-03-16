@@ -1,4 +1,4 @@
-# Software-Development-Journey
+# 100 Days of Code: Software-Development-Journey
 This repository details my journey in web design, utilizing 100Dev's curriculum and the Odin Project Curriculum.
 
 ## Jan 2026
