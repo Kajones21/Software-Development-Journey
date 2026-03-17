@@ -122,3 +122,12 @@ Next time: Finishing up Accessibility and taking two quizzes.
   * Personal Computer: 4%
       * removed screenshots that are not needed.
   * Work Computer: 0%
+### Mar 17
+* Progress: CSS
+* What have I learned: Completed the CAFE MENU assignment. Noticed on this second go around I didn't have to use notes at all. Only time I did was adding notes about certain tag idiosyncrasies. 
+* Next Time: Designing Cafe Menu (Finished)
+* Additional: In R intermediate, writing out my own functions and adding alt text to images.
+* Personal Project: Reconfiguring and optimizing my folders and files on my home computer and work computer.
+  * Personal Computer: 4%
+      * removed screenshots that are not needed.
+  * Work Computer: 0%
