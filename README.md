@@ -131,3 +131,12 @@ Next time: Finishing up Accessibility and taking two quizzes.
   * Personal Computer: 4%
       * removed screenshots that are not needed.
   * Work Computer: 0%
+### Mar 18
+* Progress: CSS
+* What have I learned: I learned about the specificity of CSS based on selectors and the type of CSS. It's actually very interesting, and it makes sense. With so many ways to style an item of course, there will come a point where the styles clash. Deciding what triumphs over each based on the absolute uniqueness and closeness of the selector is brilliant. 
+* Next Time: Designing Portfolio (Finished)
+* Additional: In R intermediate, customizing functions and referencing functions inside other functions.
+* Personal Project: Reconfiguring and optimizing my folders and files on my home computer and work computer.
+  * Personal Computer: 8%
+      * removed screenshots that are not needed.
+  * Work Computer: 0%
