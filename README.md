@@ -140,3 +140,12 @@ Next time: Finishing up Accessibility and taking two quizzes.
   * Personal Computer: 8%
       * removed screenshots that are not needed.
   * Work Computer: 0%
+### Mar 19
+* Progress: CSS
+* What have I learned: I am learning about the specificity of selectors and what occurs when rules clash. I learned about the universal selector basically being the doormat and only winning when running unopposed in rules. Using this type of analogy is incredibly helpful. Also, whoever designed the interactive editor is kick ass because being able to experiment is really helping me understand the rules so much more.
+* Next Time: Continuing Specificity
+* Additional: Got busy at work today, so I could not do R. I worked on my portfolios instead.
+* Personal Project: Reconfiguring and optimizing my folders and files on my home computer and work computer; I need to learn more about my OS because I know there are more pictures somewhere eating up my storage!
+  * Personal Computer: 10%
+      * removed screenshots that are not needed.
+  * Work Computer: 0%
