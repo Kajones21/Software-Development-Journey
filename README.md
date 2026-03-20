@@ -149,3 +149,12 @@ Next time: Finishing up Accessibility and taking two quizzes.
   * Personal Computer: 10%
       * removed screenshots that are not needed.
   * Work Computer: 0%
+### Mar 20
+* Progress: CSS
+* What have I learned: I finished CSS fundamentals, and I am now working on styling each element. Just completed the links and list item. I have some new acronyms under my belt because of the specificity (haha) of CSS rules.
+* Next Time: Looking at styling backgrounds and more.
+* Additional: Instead of R and portfolio today, I was working on Power Automate and Power Apps. I was converting someone's legacy work and improving their design and data transformations, which hadn't accounted for delegation and other issues.
+* Personal Project: Reconfiguring and optimizing my folders and files on my home computer and work computer; I need to learn more about my OS because I know there are more pictures somewhere eating up my storage!
+  * Personal Computer: 12%
+      * removed screenshots that are not needed.
+  * Work Computer: 0%
