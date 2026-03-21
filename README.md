@@ -158,3 +158,12 @@ Next time: Finishing up Accessibility and taking two quizzes.
   * Personal Computer: 12%
       * removed screenshots that are not needed.
   * Work Computer: 0%
+###  Mar 21
+* Progress: CSS
+* What have I learned: Completed lesson on links, border, and background color design while keeping in mind accessibility. 
+* Additional: I will be working on C# to be prepared for a certification I want.
+* Personal Project: Reconfiguring and optimizing my folders and files on my home computer and work computer; I need to learn more about my OS because I know there are more pictures somewhere eating up my storage!
+  * Personal Computer: 12%
+      * removed screenshots that are not needed.
+      * organizing remaining files in new folders.
+  * Work Computer: 0%
