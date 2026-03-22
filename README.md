@@ -167,3 +167,13 @@ Next time: Finishing up Accessibility and taking two quizzes.
       * removed screenshots that are not needed.
       * organizing remaining files in new folders.
   * Work Computer: 0%
+### Mar 22
+* Progress: CSS
+* What I learned: I am learning the concepts of design and how they apply in web development. Designing a website requires considerable planning so you can ensure the website you design for your audience will be used and is engaging to them.
+* Additional: I completed writing your first function and writing/storing variables in C#.
+* Personal Project: Reconfiguring and optimizing my folders and files on my home computer and work computer; I need to learn more about my OS because I know there are more pictures somewhere eating up my storage!
+  * Personal Computer: 16%
+      * removed screenshots that are not needed.
+      * organizing remaining files in new folders.
+      * Need to tackle OneDrive
+  * Work Computer: 0%
