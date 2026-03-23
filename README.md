@@ -186,5 +186,5 @@ Next time: Finishing up Accessibility and taking two quizzes.
       * removed screenshots that are not needed.
       * organizing remaining files in new folders.
       * Need to tackle OneDrive
-        * deleteing random files and organizing grad school files
+        * deleting random files and organizing grad school files
   * Work Computer: 0%
