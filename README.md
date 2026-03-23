@@ -177,3 +177,14 @@ Next time: Finishing up Accessibility and taking two quizzes.
       * organizing remaining files in new folders.
       * Need to tackle OneDrive
   * Work Computer: 0%
+### Mar 23
+* Progress: CSS
+* What I learned: Finished learning about design and how to successfully manage a project that includes a client and multiple collaborators. Completed the Design Quiz as well.
+* Additional: I completed the basic operators and how they can be combined in various ways. I also learned how to handle intentional and unintentional converting of variables.
+* Personal Project: Reconfiguring and optimizing my folders and files on my home computer and work computer; I need to learn more about my OS because I know there are more pictures somewhere eating up my storage!
+  * Personal Computer: 24%
+      * removed screenshots that are not needed.
+      * organizing remaining files in new folders.
+      * Need to tackle OneDrive
+        * deleteing random files and organizing grad school files
+  * Work Computer: 0%
