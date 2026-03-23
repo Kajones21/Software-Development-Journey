@@ -169,8 +169,8 @@ Next time: Finishing up Accessibility and taking two quizzes.
   * Work Computer: 0%
 ### Mar 22
 * Progress: CSS
-* What I learned: I am learning the concepts of design and how they apply in web development. Designing a website requires considerable planning so you can ensure the website you design for your audience will be used and is engaging to them.
-* Additional: I completed writing your first function and writing/storing variables in C#.
+* What I learned: I am learning the concepts of design and how they apply in web development. Designing a website requires considerable planning so you can ensure the website you design for your audience will be used and engaging to them. The design principles I am learning about are very interesting, especially the black background with white text. I usually keep my devices in dark mode in that color scheme, but I hadn't realized that also causes eye strain. 
+* Additional: I completed writing your first function and writing/storing variables in C#. I also finished formatting variables, specifically string manipulation.
 * Personal Project: Reconfiguring and optimizing my folders and files on my home computer and work computer; I need to learn more about my OS because I know there are more pictures somewhere eating up my storage!
   * Personal Computer: 16%
       * removed screenshots that are not needed.
