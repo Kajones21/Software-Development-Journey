@@ -188,3 +188,16 @@ Next time: Finishing up Accessibility and taking two quizzes.
       * Need to tackle OneDrive
         * deleting random files and organizing grad school files
   * Work Computer: 0%
+### Mar 24 (Conference)
+### Mar 25 (Conference)
+### Mar 26 (Conference)
+### Mar 27
+* Progress: CSS
+* What I learned: I learned about the various units we can use to dynamically change out layout design regardless of the devices found. I completed the units section.
+* Additional: I began the grade assignment, but I stopped midway due to lack of sleep. I can finish the assignment, but I don't think I would remember what I did the next day, so I am stopping for the sake of my learning journey. I will start again tomorrow! I will also do some R tomorrow!
+* Personal Project: Files are much easier to find on my computer now. OneDrive is slowly being cleaned out. There are many pictures and old files from my academic career.
+  * Personal Computer: 30%
+      * removed screenshots that are not needed.
+      * organizing remaining files in new folders.
+      * Need to tackle OneDrive
+        * deleting random files and organizing grad school files
