@@ -201,3 +201,13 @@ Next time: Finishing up Accessibility and taking two quizzes.
       * organizing remaining files in new folders.
       * Need to tackle OneDrive
         * deleting random files and organizing grad school files
+### Mar 28
+* Progress: CSS
+* What I learned: I am learning about the pseudo-classes in CSS and how they can be useful in styling elements by either their states or position inside the document tree. I stopped at structural tree styling of elements.
+* Additional: Will work on c# tomorrow morning.
+* Personal Project: Files are much easier to find on my computer now. OneDrive is slowly being cleaned out. There are many pictures and old files from my academic career.
+  * Personal Computer: 32%
+      * removed screenshots that are not needed.
+      * organizing remaining files in new folders.
+      * Need to tackle OneDrive
+        * deleting random files and organizing grad school files
