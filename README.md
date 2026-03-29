@@ -211,3 +211,14 @@ Next time: Finishing up Accessibility and taking two quizzes.
       * organizing remaining files in new folders.
       * Need to tackle OneDrive
         * deleting random files and organizing grad school files
+### Mar 29
+* Progress: CSS
+* What I learned: Finished out the lesson on pseudo-elements and pseudo-classes. I had to use MDN curriculum to supplement the freeCodeCamp material because I was getting twisted around trying to tell the difference between the two. Using MDN, I know a pseudo-class is like adding a class statement to a selector to target a specific state of an element. Pseudo-elements target elements in  a way that makes it seem as though you added another element to the page. Still, it's an element that cannot exist without the other element because it appends its style to the existing style. The MDN curriculum has a great use case in using the pseudo-element ::before. If something is first in a list of elements and a certain type of style must always be applied, you can use the :first-line selector. Great for dynamically styling things~
+* Additional: Will work on c# tomorrow morning.
+* Personal Project: Files are much easier to find on my computer now. OneDrive is slowly being cleaned out. There are many pictures and old files from my academic career.
+  * Personal Computer: 35%
+      * removed screenshots that are not needed.
+      * organizing remaining files in new folders.
+      * Need to tackle OneDrive
+        * deleting random files and organizing grad school files
+      * Organizing books and academic papers.
