@@ -222,3 +222,14 @@ Next time: Finishing up Accessibility and taking two quizzes.
       * Need to tackle OneDrive
         * deleting random files and organizing grad school files
       * Organizing books and academic papers.
+### Mar 30
+* Progress: CSS
+* What I learned: I am applying the lessons of dynamically styling elements based on pseudo-classes and pseudo-elements. I completed the birthday card lab today without having to check my notes. I added extra notetaking from the lab and placed it in the Advanced Preview CSS section, though. It mostly covers the transition and transform property relationship and how to dynamically hide items using the display property.
+* Additional: I completed the write your first c# function inside of freeCodeCamp. I will be working on the rest this week so I can take the certification.
+* Personal Project: Files are much easier to find on my computer now. OneDrive is slowly being cleaned out. There are many pictures and old files from my academic career.
+  * Personal Computer: 35%
+      * removed screenshots that are not needed.
+      * organizing remaining files in new folders.
+      * Need to tackle OneDrive
+        * deleting random files and organizing grad school files
+      * Organizing books and academic papers.
