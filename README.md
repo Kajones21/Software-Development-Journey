@@ -238,3 +238,8 @@ Next time: Finishing up Accessibility and taking two quizzes.
 * What I Applied: I completed the job application form using the pseudo-elements and pseudo-classes. I also needed to go back and use the CSS combinations to complete the assignment. I will redo the assignment to see if I can do it again, adding some new elements to the page based on my own ideas.
 * Additional: No C# or R for today; logged off work an hour later due to an expected meeting.
 * Personal Computer: Bought a Sandisk to store large vacation photos and to remove from computer storage. Academic papers need to be trimmed. Will do some tomorrow. Great work, girl!
+### Apr 2
+* Progress: Reworked the pseudo-class and pseudo-element interactive labs and did much better. This is a topic that will need to be revisited later though because of its complexity. I looked less at the labs but still had a rough time. I will need to find other assignments online to test this knowledge. Apr 4th will be a retest day for me.
+* What I applied: I applied the pseudo-class and pseudo-element knowledge by creating forms.
+* Additional: TBW
+* Personal Computer: TBW
