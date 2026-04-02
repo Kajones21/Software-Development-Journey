@@ -233,3 +233,8 @@ Next time: Finishing up Accessibility and taking two quizzes.
       * Need to tackle OneDrive
         * deleting random files and organizing grad school files
       * Organizing books and academic papers.
+### Apr 1 
+* Progress: CSS
+* What I Applied: I completed the job application form using the pseudo-elements and pseudo-classes. I also needed to go back and use the CSS combinations to complete the assignment. I will redo the assignment to see if I can do it again, adding some new elements to the page based on my own ideas.
+* Additional: No C# or R for today; logged off work an hour later due to an expected meeting.
+* Personal Computer: Bought a Sandisk to store large vacation photos and to remove from computer storage. Academic papers need to be trimmed. Will do some tomorrow. Great work, girl!
