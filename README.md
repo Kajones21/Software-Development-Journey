@@ -243,3 +243,8 @@ Next time: Finishing up Accessibility and taking two quizzes.
 * What I applied: I applied the pseudo-class and pseudo-element knowledge by creating forms.
 * Additional: TBW
 * Personal Computer: TBW
+### Apr 3 (Vacay)
+### Apr 4
+* Progress: Exploring colors using HSL, RGBA, and hexidecimal. Also adding in gradient designs to the color scheme.
+* What I learned: Refreshing up on color scheme.
+* Additional: Completed the VS Code in the C# module.
