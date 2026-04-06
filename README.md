@@ -239,12 +239,20 @@ Next time: Finishing up Accessibility and taking two quizzes.
 * Additional: No C# or R for today; logged off work an hour later due to an expected meeting.
 * Personal Computer: Bought a Sandisk to store large vacation photos and to remove from computer storage. Academic papers need to be trimmed. Will do some tomorrow. Great work, girl!
 ### Apr 2
-* Progress: Reworked the pseudo-class and pseudo-element interactive labs and did much better. This is a topic that will need to be revisited later though because of its complexity. I looked less at the labs but still had a rough time. I will need to find other assignments online to test this knowledge. Apr 4th will be a retest day for me.
+* Progress: Reworked the pseudo-class and pseudo-element interactive labs and did much better. This is a topic that will need to be revisited later, though, because of its complexity. I looked less at the labs but still had a rough time. I will need to find other assignments online to test this knowledge. Apr 4th will be a retest day for me.
 * What I applied: I applied the pseudo-class and pseudo-element knowledge by creating forms.
 * Additional: TBW
 * Personal Computer: TBW
 ### Apr 3 (Vacay)
 ### Apr 4
-* Progress: Exploring colors using HSL, RGBA, and hexidecimal. Also adding in gradient designs to the color scheme.
-* What I learned: Refreshing up on color scheme.
+* Progress: Exploring colors using HSL, RGBA, and hexadecimal. Also adding in gradient designs to the color scheme.
+* What I learned: Refreshing up on the color scheme.
 * Additional: Completed the VS Code in the C# module.
+### Apr 5
+* Progress: Completed the color design module.
+* Additional: Completed the VS Code in the C# module.
+### Apr 6
+* Progress: Learning best practices for styling forms and websites for accessibility.
+* What I applied: Labs not yet started.
+* Additional: -
+* Personal Computer: -
